@@ -1,0 +1,6 @@
+pytest
+pillow
+numpy
+opencv-python
+torch
+yaml
