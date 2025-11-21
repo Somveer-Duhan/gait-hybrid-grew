@@ -1,0 +1,2 @@
+# heavy / optional - install locally only
+torch
